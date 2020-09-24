@@ -11,9 +11,11 @@ title: 关于我
 
 To My Future Girlfriend！
 
-<h2> 熙伟的博客 </h2>  
+<h2> 熙伟的博客 </h2> 
 
 博客记录生活，生活中的美好，值得被铭记！
+
+### Work Hard and Good Luck!
 
 {% include comments.html %}
 
