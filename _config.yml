@@ -1,9 +1,9 @@
 # Basic
-title: Xiwei
+title: XiWei
 subtitle: Personal Blog
 description: 欢迎来到我的Blog~
 # 头像里面的标题
-avatarTitle: Xiwei
+avatarTitle: xiwei
 # 头像里面的描述
 avatarDesc: CV / 机器学习 / 后端开发
 url: "https://xiweiya.com"
@@ -14,7 +14,7 @@ enableToc: true
 # Comment
 comment:
     # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    disqus: leopard
+    disqus: xiwei
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
