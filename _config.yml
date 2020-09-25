@@ -1,9 +1,9 @@
 # Basic
-title: XiWei
+title: 熙园的博客
 subtitle: Personal Blog
-description: 欢迎来到我的Blog~
+description: 欢迎来到我的世界~
 # 头像里面的标题
-avatarTitle: xiwei
+avatarTitle: xiyuan
 # 头像里面的描述
 avatarDesc: CV / 机器学习 / 后端开发
 url: "https://xiweiya.com"
@@ -51,7 +51,7 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 熙伟的博客
+    title: 熙园的博客
 
 # Navigation buttons in the front page.s
 nav:
