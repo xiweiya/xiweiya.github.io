@@ -22,29 +22,29 @@ tags: Life
 
 - 我们在鼓楼大街 & 故宫附近（下次跟宝贝一起逛逛故宫）
 
-<img src="../images/beijing/4.jpeg" alt="1" style="zoom:25%;" />
+<img src="../images/beijing/4.jpeg" alt="1" style="zoom:125%;" />
 
-<img src="../images/beijing/3.jpeg" alt="1" style="zoom:25%;" />
+<img src="../images/beijing/3.jpeg" alt="1" style="zoom:125%;" />
 
-<img src="../images/beijing/5.jpeg" alt="1" style="zoom:25%;" />
+<img src="../images/beijing/5.jpeg" alt="1" style="zoom:125%;" />
 
 - 护城河 & 故宫
 
-<img src="../images/beijing/6.jpeg" alt="1" style="zoom:25%;" />
+<img src="../images/beijing/6.jpeg" alt="1" style="zoom:125%;" />
 
-<img src="../images/beijing/7.jpeg" alt="1" style="zoom:25%;" />
+<img src="../images/beijing/7.jpeg" alt="1" style="zoom:125%;" />
 
 - 颐和园（颐和园真的好大，进去的第一眼惊艳到我了~）
 
-<img src="../images/beijing/10.jpeg" alt="1" style="zoom:25%;" />
+<img src="../images/beijing/10.jpeg" alt="1" style="zoom:125%;" />
 
-<img src="../images/beijing/8.jpeg" alt="1" style="zoom:25%;" />
+<img src="../images/beijing/8.jpeg" alt="1" style="zoom:125%;" />
 
-<img src="../images/beijing/17.jpeg" alt="1" style="zoom:25%;" />
+<img src="../images/beijing/17.jpeg" alt="1" style="zoom:125%;" />
 
-<img src="../images/beijing/18.jpeg" alt="1" style="zoom:25%;" />
+<img src="../images/beijing/18.jpeg" alt="1" style="zoom:125%;" />
 
-<img src="../images/beijing/20.jpeg" alt="1" style="zoom:25%;" />
+<img src="../images/beijing/20.jpeg" alt="1" style="zoom:125%;" />
 
 
 
@@ -54,13 +54,13 @@ tags: Life
 
 - 宝贝在图书馆银杏树下，好漂亮嘿嘿
 
-<img src="../images/beijing/21.jpeg" alt="1" style="zoom:25%;" />
+<img src="../images/beijing/21.jpeg" alt="1" style="zoom:125%;" />
 
 - 我们在公司附近
 
-<img src="../images/beijing/23.jpeg" alt="1" style="zoom:25%;" />
+<img src="../images/beijing/23.jpeg" alt="1" style="zoom:125%;" />
 
-<img src="../images/beijing/25.jpeg" alt="1" style="zoom:25%;" />
+<img src="../images/beijing/25.jpeg" alt="1" style="zoom:125%;" />
 
 然后我们去了北京南站，时间一下就过去了，过去的贼快，如眨眼间两天就过去了，好舍不得~
 
